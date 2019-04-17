@@ -11,6 +11,7 @@ download python software- [clickhere](https://www.python.org/downloads/)
 
 ## Task-2 Unit converters[Open Program here](https://github.com/anilpolineni/Python_Programs/blob/master/unitconverters.py)
 
-## Task-3 Interest Calculation[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/interest%20calucation.py)
+## Task-3 Interest Calculation[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/interest%20calucation.py) 
+## Task-4 Multiplication Tables [open program here](https://github.com/anilpolineni/Python_Programs/blob/master/Multiplaction%20Tables.py)
 
 
