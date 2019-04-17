@@ -3,7 +3,7 @@
  Problem Slovings-Python
 
 # Required_ Software
-download python software- https://www.python.org/downloads/
+download python software- [clickhere](https://www.python.org/downloads/)
 
 # Day-1
 ## Task-1 Finding maximum of 3 numbers-
