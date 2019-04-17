@@ -1,7 +1,14 @@
 # Python_Programs
+ 
+ Problem Slovings-Python
 
 # Required_ Software
 download python software- https://www.python.org/downloads/
 
 # Day-1
-## Finding maximum of 3 numbers-
+## Task-1 Finding maximum of 3 numbers-
+
+
+## Task-2 Unit converters
+
+
