@@ -22,3 +22,5 @@ download python software- [clickhere](https://www.python.org/downloads/)
 # Day-2
 
 ## Task-1 FibnacciSeries Generation [open program here](https://github.com/anilpolineni/Python_Programs/blob/master/fibnacci%20number.py)
+
+## Task-2 PrimeNumbes Generation [open program here](https://github.com/anilpolineni/Python_Programs/blob/master/prime%20numbers.py)
