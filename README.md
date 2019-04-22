@@ -30,3 +30,7 @@ download python software- [clickhere](https://www.python.org/downloads/)
 ## Task-4 Linear Search[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/linear%20search.py)
 
 ## Task-5 Binary Search[open program here](https://github.com/anilpolineni/Python_Programs/blob/master)
+
+# Day-3
+
+## Task-1 perfect number[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/perfect%20number.py)
