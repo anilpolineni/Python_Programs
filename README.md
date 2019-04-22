@@ -28,3 +28,5 @@ download python software- [clickhere](https://www.python.org/downloads/)
 ## Task-3 Maximun Minimun and Average of Numbers[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/Avg%20of%20n%20numbers.py)
 
 ## Task-4 Linear Search[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/linear%20search.py)
+
+## Task-5 Binary Search[open program here](https://github.com/anilpolineni/Python_Programs/blob/master)
