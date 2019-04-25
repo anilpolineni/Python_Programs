@@ -34,3 +34,7 @@ download python software- [clickhere](https://www.python.org/downloads/)
 # Day-3
 
 ## Task-1 perfect number[open program here](https://github.com/anilpolineni/Python_Programs/blob/master/perfect%20number.py)
+## Task-2 Sorting numbers from a text file [open program here](https://github.com/anilpolineni/Python_Programs/blob/master/text.py)
+## Task-3 DateDifference[openprogram here](https://github.com/anilpolineni/Python_Programs/blob/master/date.py)
+## Task-4 TimeDifference [openprogram here](https://github.com/anilpolineni/Python_Programs/blob/master/time.py)
+
